@@ -19,7 +19,7 @@ from setuptools import setup
 DEPENDENCIES = (
     # Note: these dependency versions should be kept in-sync with the versions
     # specified in the docker container requirements files.
-    'google-auth,
+    'google-auth',
     'ipykernel',
     'ipyparallel',
     'ipython',
