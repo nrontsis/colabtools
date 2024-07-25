@@ -28,6 +28,15 @@ DEPENDENCIES = (
     'portpicker',
     'requests',
     'tornado',
+    # Necessary requirements, not included
+    'matplotlib',
+    'pillow',
+    'httplib2',
+    'tensorflow',
+    'ipython_genutils',
+    'pillow',
+    'absl-py',
+    'panel',
 )
 
 setup(
