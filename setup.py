@@ -23,7 +23,7 @@ DEPENDENCIES = (
     'ipykernel',
     'ipyparallel',
     'ipython',
-    'notebook==6.5.6',
+    'notebook',
     'pandas',
     'portpicker',
     'requests',
